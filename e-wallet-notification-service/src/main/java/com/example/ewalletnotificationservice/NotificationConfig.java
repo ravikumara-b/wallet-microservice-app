@@ -44,7 +44,7 @@ public class NotificationConfig {
         javaMailSender.setPassword("enter the app password");//so we can use now our mail account as normal/ any other services og google account
         ////update pasword check in file ----- removing due security purpose
         
-       // cqvk cimx omvh gkdb
+      
 
 
         
